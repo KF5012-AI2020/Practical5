@@ -1,9 +1,12 @@
 # Practical5
-
 Neural Networks
 
 ## Overview
-In [this practical](https://github.com/KF5012-AI2020/Practical5) you will be use neural networks to solve different problems. First you will examine how neural networks can be applied to tabular data
+In [this practical](https://github.com/KF5012-AI2020/Practical5) you will use neural networks to solve different problems. First you will examine how neural networks can be applied to tabular data, then you will explore convolutional neural networks for image classification.
+
+The goal of this practical session is to show you that neural networks are much easier to code than to understand, and even simple networks can be very powerful.
+
+Also, this is a great chance to ask questions about your project proposals that will be due this Friday. 
 
 ## What is in this Practical Session
 1. Neural Networks for Diagnosis of Diabetes
@@ -15,3 +18,6 @@ It is suggested to read the notebooks in the above order. Note that exercises wi
 Open up this repository in [binder]() to get started.
 
 If you have any questions, my email is daniel.organisciak@northumbria.ac.uk
+
+## Other resources
+There is a lot of information about how to use Keras for different machine learning tasks. I particularly recommend [Francois Chollet's](https://github.com/fchollet/keras-resources) repository (Francois Chollet is the founder of Keras).

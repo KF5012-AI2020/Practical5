@@ -1,4 +1,4 @@
-name: practical3
+name: practical5
 channels:
   - conda-forge
 dependencies:

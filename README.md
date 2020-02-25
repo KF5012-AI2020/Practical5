@@ -8,6 +8,10 @@ The goal of this practical session is to show you that neural networks are much 
 
 Also, this is a great chance to ask questions about your project proposals that will be due this Friday. 
 
+**Note: I didn't realise the code would take so long to process on binder. You can try to run it locally on your PCs. Download this repository, use anaconda to add the packages in environment.yml to your environment then run the notebooks with jupyter notebook.**
+
+
+
 ## What is in this Practical Session
 1. Neural Networks for Diagnosis of Diabetes
 2. Convolutional Neural Networks for Image Classification
@@ -15,8 +19,7 @@ Also, this is a great chance to ask questions about your project proposals that 
 It is suggested to read the notebooks in the above order. Note that exercises will appear within the notebooks this time, so that you don't need to code everything from scratch. You may find it beneficial to go through the notebooks without doing the exercises first, then come back to them.
 
 ## Set up your notebook
-Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Practical5/9053cf524bd859bd7e59d180b5af31410a080830) to get started.
-
+Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Practical5/9053cf524bd859bd7e59d180b5af31410a080830) to get started. 
 If you have any questions, my email is daniel.organisciak@northumbria.ac.uk
 
 ## Other resources
